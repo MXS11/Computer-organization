@@ -23,9 +23,8 @@ This homework is to warm up the usage of PIN. In the next homework, you will do 
        
      Count the number of instructions in each class and find their ratio. 
 
-# Solutions
+# Setting up the PIN tool
 
-### Setting up the PIN tool
 After downloading the PIN tool, we have to apply the following command in order to provide Ubuntu with the path of the PIN tool.
 ```
 set INTEL_JIT_PROFILER /home/user/Downloads/pin-3.17-98314-g0c048d619-gcc-linux/intel64/lib/libpinjitprofiling.so
