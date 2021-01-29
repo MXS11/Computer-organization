@@ -1,7 +1,7 @@
 # Computer-organization
 My solutions to various computer architecture concepts.
 
-- Homework 1
+- [Homework 1 questions and solutions.](https://github.com/MXS11/Computer-organization/blob/main/HW1/README.md)
 
 - [Homework 2 questions and solutions.](https://github.com/MXS11/Computer-organization/blob/main/HW2/README.md)
 
