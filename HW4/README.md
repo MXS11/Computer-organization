@@ -47,17 +47,17 @@ Cd /Downloads/pin-3.17-98314-g0c048d619-gcc-linux/source/tools/ManualExamples$
 ```
 Inside the ManualExample file, we add our c++ code **hw4.cpp** then, we create a folder obj-intel64 and put the factorial code inside it. Then, we run the c code using ```gcc RecFact.c``` then we execute the code using ```./a.out```
 
-We put in a number and we get a new file **a.out**
+We put in a number and we get a new file ```a.out```
 
 We move the file from obj-intel64 to the ManualExample file. After that, we will use the following command to execute our C++ code in order to count the instructions.
 ```
 make hw4.test
 ```
 
-Moreover, we will then execute our instruction c++ code on the **a.out** file that we got from the factorial using the command
+Moreover, we will then execute our instruction c++ code on the ```a.out``` file that we got from the factorial using the command
 
 ```
 ../../../pin -t obj-intel64/hw4.so -- ./a.out
 ```
 
-Using this command will perform the count of the instructions and then it will give us a file that has the results of our calculations called **results.out.**
+Using this command will perform the count of the instructions and then it will give us a file that has the results of our calculations called ```results.out.```
