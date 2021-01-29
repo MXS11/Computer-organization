@@ -45,9 +45,9 @@ We change our directory to the tools file inside the PIN tool.
 ```
 Cd /Downloads/pin-3.17-98314-g0c048d619-gcc-linux/source/tools/ManualExamples$
 ```
-Inside the ManualExample file, we add our c++ code **hw4.cpp** then, we create a folder obj-intel64 and put the factorial code inside it. Then, we run the c code using (gcc RecFact.c) then we execute the code using (./a.out). 
+Inside the ManualExample file, we add our c++ code **hw4.cpp** then, we create a folder obj-intel64 and put the factorial code inside it. Then, we run the c code using ```gcc RecFact.c``` then we execute the code using ```./a.out```
 
-We put in a number and we get a new file (a.out). 
+We put in a number and we get a new file **a.out**
 
 We move the file from obj-intel64 to the ManualExample file. After that, we will use the following command to execute our C++ code in order to count the instructions.
 ```
