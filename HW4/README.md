@@ -5,6 +5,7 @@ Definition: In this homework, you are going to do some experiments with X68 ISA,
 For this task, you will use [PIN Binary Instrumentation Tool.](https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool )
 
 PIN allows you to collect runtime information about any application compiled and running on an X86 computer. 
+
 In this homework, you will instrument simple factorial application both for iterative and recursive versions. 
 You can get the code from [here.](https://www.javatpoint.com/factorial-program-in-c) 
 
@@ -34,7 +35,7 @@ You can get the code from [here.](https://www.javatpoint.com/factorial-program-i
 
 Calculate the frequency of usage of each register as a destination register. 
 
-# **Solutions**
+# Solutions
 
 ### Setting up the PIN tool
 After downloading the PIN tool, we have to apply the following command in order to provide Ubuntu with the path of the PIN tool.
