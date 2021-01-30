@@ -61,4 +61,4 @@ Moreover, we will then execute our instruction c++ code on the ```a.out``` file 
 ../../../pin -t obj-intel64/hw4.so -- ./a.out
 ```
 
-Using this command will perform the count of the instructions and then it will give us a file that has the results of our calculations called ```results.out.```
+Using this command will perform the count of the instructions and then it will give us a file that has the results of our calculations called ```results.out```
