@@ -35,9 +35,8 @@ You can get the code from [here.](https://www.javatpoint.com/factorial-program-i
 
 Calculate the frequency of usage of each register as a destination register. 
 
-# Solutions
 
-### Setting up the PIN tool
+# Setting up the PIN tool
 After downloading the PIN tool, we have to apply the following command in order to provide Ubuntu with the path of the PIN tool.
 ```
 set INTEL_JIT_PROFILER /home/user/Downloads/pin-3.17-98314-g0c048d619-gcc-linux/intel64/lib/libpinjitprofiling.so
