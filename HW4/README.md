@@ -1,6 +1,6 @@
 # Binary Instrumentation with PIN
 
-Definition: In this homework, you are going to do some experiments with X68 ISA, which is the instruction set in your computers.
+Definition: In this homework, you are going to do some experiments with X86 ISA, which is the instruction set in your computers.
 
 For this task, you will use [PIN Binary Instrumentation Tool.](https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool )
 
